@@ -1,0 +1,2 @@
+Notas1
+Otras notas para preubas de Git Bash
