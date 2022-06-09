@@ -1,0 +1,2 @@
+Las carpetas están vacías por ese motivo no se cargan en github.
+Estas son las carpetas que debe tener todo proyecto web
